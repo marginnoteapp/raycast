@@ -1,4 +1,7 @@
 # Raycast Extension of MarginNote
+
+![Archived](https://img.shields.io/badge/Status-Archived-656c76?style=flat&labelColor=2E72E7)
+
 [ [简体中文](./README-ZH.md) ]
 ## Usage
 ### First of All
